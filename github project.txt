@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2> ordered list with numbers</h2>
+<ol type="i">
+<li>coffee</li>
+<li>tea</li>
+<li>milk</li>
+</ol>
+<p style="border:1px solid black">hello andhra pradesh</p>
+<div style="border:1px solid black">hello india</div>
+</body>
+
+<html>
