@@ -9,7 +9,9 @@
 <body>
   <header>
     <h1>[Your Name]</h1>
-    <p>[Your Title/Profession] | [Contact Information (Email, Phone number (optional))]</p>
+    <p>[Your Title/Profession] | 
+      [Contact Information 
+      (Email, Phone number (optional))]</p>
   </header>
   <hr>
   <section id="summary">
@@ -21,7 +23,9 @@
     <h2>Experience</h2>
     <ul>
       <li>
-        <h3>[Job Title] at [Company Name], [Dates of Employment]</h3>
+        <h3>[Job Title]
+          [Company Name], 
+          [Dates of Employment]</h3>
         <ul>
           <li>[List your responsibilities and achievements in bullet points]</li>
           <li>...</li>
@@ -34,7 +38,9 @@
     <h2>Education</h2>
     <ul>
       <li>
-        <h3>[Degree Name] - [University Name], [Graduation Year]</h3>
+        <h3>[Degree Name] 
+          [University Name]
+          [Graduation Year]</h3>
         <p>[Mention relevant coursework or achievements (optional)]</p>
       </li>
       </ul>
